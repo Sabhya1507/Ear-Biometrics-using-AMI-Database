@@ -106,24 +106,5 @@ Analyzed the effect of grayscale vs RGB on CNN performance.
 
 Explored practical trade-offs between performance and complexity for deployment scenarios.
 
-How to Run
-Clone this repository
-git clone https://github.com/yourusername/ear-biometrics-comparison.git
-
-Download the AMI Ear Dataset from the official website.
-
-Set up the Python environment:
-pip install -r requirements.txt
-
-Train and evaluate models using the respective scripts:
-
-svm_model.py
-
-cnn_grayscale.py
-
-resnet_rgb.py
-
-View results and metrics saved in the /results directory.
-
 License
 This project is for academic use and subject to dataset licensing terms. Refer to the AMI Ear Database license for more details.
